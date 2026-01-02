@@ -96,7 +96,7 @@ export default function Layout({ children }) {
                   className={`text-sm font-medium text-blue-600 hover:text-dark-600 ${
                     isScrolled
                       ? 'text-slate-600'
-                      : 'text-slate-300 hover:text-dark-blue'
+                      : 'hover:text-dark-blue'
                   }`}
                 >
                   {link.name}
