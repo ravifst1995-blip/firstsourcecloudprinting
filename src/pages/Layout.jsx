@@ -178,7 +178,7 @@ export default function Layout({ children }) {
       </div>
 
       <p className="text-slate-400 max-w-md mb-6">
-        Award-winning digital marketing agency driving measurable growth.
+        Award-winning First Source Cloud Printing driving measurable growth.
       </p>
 
       <div className="flex gap-3 justify-center">

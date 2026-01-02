@@ -46,7 +46,7 @@ export default function Hero() {
           transition={{ duration: 0.6, delay: 0.2 }}
           className="max-w-2xl mx-auto text-lg md:text-xl text-slate-400 mb-12 leading-relaxed"
         >
-          Award-winning digital marketing agency crafting data-driven strategies 
+          Award-winning First Source Cloud Printing crafting data-driven strategies 
           that amplify your brand, drive conversions, and deliver measurable growth.
         </motion.p>
         
