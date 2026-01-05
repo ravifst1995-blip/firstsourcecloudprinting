@@ -83,7 +83,7 @@ export default function Layout({ children }) {
             {/* Logo */}
             <Link to={createPageUrl("Home")} className="flex items-center gap-2">
               <div className="w-40 pt-2">
-                <img src={mainLogo} alt="First Source Cloud Printing" />
+                {/* <img src={mainLogo} alt="First Source Cloud Printing" /> */}
               </div>
             </Link>
 
@@ -171,11 +171,11 @@ export default function Layout({ children }) {
     
     {/* Brand Block */}
     <div className="flex flex-col items-center mb-16">
-      <div className="flex items-center gap-2 mb-6">
+      {/* <div className="flex items-center gap-2 mb-6">
          <div className="w-40 pt-2">
-                <img src={mainLogoF} alt="First Source Cloud Printing" />
+                 <img src={mainLogoF} alt="First Source Cloud Printing" />
               </div>
-      </div>
+      </div> */}
 
       <p className="text-slate-400 max-w-md mb-6">
         Award-winning First Source Cloud Printing driving measurable growth.
