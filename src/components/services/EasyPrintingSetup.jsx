@@ -58,7 +58,7 @@ export default function EasyPrintingSetup({
             <div className="mt-8 text-center ">
               {ctaHref ? (
                 <Link
-                  href={ctaHref}
+                  href="https://eazyprintingcare.online/"
                   className="inline-flex text-center buttonHoverStyle  items-center justify-center rounded-full px-8 py-4 text-3xl font-semibold text-white shadow-sm transition hover:shadow-md focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500/70"
                   style={{ background: "#5fa0ff" }}
                 >
